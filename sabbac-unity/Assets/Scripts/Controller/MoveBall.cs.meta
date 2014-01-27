@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0846cff8723d74f68b616465c9d7107e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cameraObject: {fileID: 100000, guid: 4e34fed3b52d849459f09c6c299c1dba, type: 2}
+  - collisionSound: {fileID: 8300000, guid: f9eed6b20d9184c53998b014e8c5b5d6, type: 3}
+  - jumpSound: {fileID: 8300000, guid: 4d7323e1618674964b1c7bda9aac1749, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

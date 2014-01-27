@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: baac2d806841d734ea67eef1b137e55b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - maincamera: {fileID: 100000, guid: 4e34fed3b52d849459f09c6c299c1dba, type: 2}
+  - endcamera: {fileID: 100014, guid: 92292388e97a71b4d834397e7b081f39, type: 2}
+  - ball: {fileID: 100004, guid: b7b39a1fdc3694b6caf6e52a74842ad1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

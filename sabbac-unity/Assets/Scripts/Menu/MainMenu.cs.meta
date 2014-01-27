@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 68fb44c62f34a438bbdf1ee98c2096ed
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - logo: {fileID: 2800000, guid: 62b95860a9ea7d34a935e509b2f93334, type: 3}
+  - icon_highscore: {fileID: 2800000, guid: 23ba96965f39d014ba906194edf5a2bb, type: 3}
+  - icon_about: {fileID: 2800000, guid: 7ef8aba4ea6c2134195ba47ffad5daa6, type: 3}
+  - guiSkin: {fileID: 11400000, guid: 7953503d9e83f8d469b84619849edd4e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
